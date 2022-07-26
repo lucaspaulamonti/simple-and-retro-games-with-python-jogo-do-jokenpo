@@ -1,4 +1,3 @@
-# Faça um programa em Python que simule um jogo do Jokenpo usuário-cpu.
 import random
 import time
 import os
